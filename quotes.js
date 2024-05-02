@@ -1,46 +1,46 @@
 const quotesList = [
     {
-        author: 'Braveheart',
-        quote: 'Todos los hombres mueren, pero no todos han vivido'
+        author: 'Migue',
+        quote: 'Los azuquiquis son personas muy respetables'
     },
     {
-        author: 'Yoda',
-        quote: 'Hazlo o no lo hagas, pero no lo intentes'
+        author: 'Migue',
+        quote: 'La flaquita de Migue es muy monita'
     },
     {
-        author: 'The Godfather',
-        quote: '¿De qué sirve confesarme si no me arrepiento?'        
+        author: 'Migue',
+        quote: '¿Qué es un mono sin una mona?'        
     },
     {
-        author: 'Whiplash',
-        quote: 'No hay dos palabras que sean más dañinas en nuestro idioma que "buen trabajo'
+        author: 'Migue',
+        quote: 'Eres la azuquiqui de mi café'
     },
     {
-        author: 'Matrix',
-        quote: 'No existen preguntas sin respuesta, solo preguntas mal formuladas'
+        author: 'Migue',
+        quote: 'No son buenos días si no me los das tú'
     },
     {
-        author: 'Truman',
+        author: 'Migue',
         quote: 'Buenos días… y por si no volvemos a vernos: buenos días, buenas tardes y buenas noches'        
     },
     {
-        author: 'El viaje de Chihiro',
-        quote: 'Nada de lo que sucede se olvida, incluso si ya no lo recuerdas'
+        author: 'Migue',
+        quote: 'Merga'
     },
     {
-        author: 'Little Miss Sunshine',
-        quote: 'El verdadero perdedor es aquél que tiene tanto miedo a no ganar que ni siquiera lo intenta'
+        author: 'Migue',
+        quote: 'AZUQUIQUIIIIIIIIIIIIIIIIIIIIII'
     },
     {
-        author: 'Shrek',
-        quote: 'Tras un tiempo, aprendes a ignorar lo que los demás te dicen y confiar en ti mismo'        
+        author: 'Migue',
+        quote: 'LOCURITAAAAAAAAAAAAAAAAAAAAAA'        
     },
     {
-        author: 'Walter White',
+        author: 'Migue',
         quote: "I'm the one who knocks"
     },
     {
-        author: 'Walter White',
+        author: 'Migue',
         quote: "I'm not in danger, I'm the danger"
     }
 ]
