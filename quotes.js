@@ -41,6 +41,6 @@ const quotesList = [
     },
     {
         author: 'Migue',
-        quote: "I'm not in danger, I'm the danger"
+        quote: "Te amo"
     }
 ]
