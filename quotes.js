@@ -25,7 +25,7 @@ const quotesList = [
     },
     {
         author: 'El viaje de Chihiro',
-        quote: ' Nada de lo que sucede se olvida, incluso si ya no lo recuerdas'
+        quote: 'Nada de lo que sucede se olvida, incluso si ya no lo recuerdas'
     },
     {
         author: 'Little Miss Sunshine',
